@@ -1,4 +1,4 @@
-Access the website (here)[https://react-1-birthday-remider.vercel.app/]
+Access the website [here](https://react-1-birthday-remider.vercel.app/)
 
 ## Idea
 
